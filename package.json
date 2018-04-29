@@ -1,0 +1,19 @@
+{
+  "name": "@taluoo/node-line-reader",
+  "version": "1.0.0",
+  "description": "read file line by line",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taluoo/node-line-reader.git"
+  },
+  "author": "taluoo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taluoo/node-line-reader/issues"
+  },
+  "homepage": "https://github.com/taluoo/node-line-reader#readme"
+}
